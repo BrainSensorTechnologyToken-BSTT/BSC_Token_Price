@@ -9,5 +9,5 @@ Get BSC Token's Price From PancakeSwap
 5. Run : npm i --save web3
 6. Create a file: tokenPrice.js
 7. Open your project inside Visual Studio Code
-8. Update the files tokenPrice.js and index.html
+8. Update the files tokenprice.js and index.html
 9. Run: browserify tokenprice.js --standalone bundle -o bsttprice.js
